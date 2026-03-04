@@ -1,25 +1,51 @@
-# Trey_Barfield
-Professional Readme
-# Trey Barfield
+# Frederick "Trey" Barfield
 
-Data Analyst focused on transforming data into actionable insights.
+Data Analyst | Python | Tableau | Sports Analytics  
+MS Data Science @ Eastern University (Expected 2026)
 
-## Skills
-- Python (Pandas, NumPy)
-- Data Cleaning & Analysis
-- Tableau (Dashboards & Storytelling)
-- Data Visualization
+---
 
-## Projects
-- Sales Trend Analysis (Python + Tableau) – In Progress
-- Regional Revenue Dashboard (Tableau)
-- AI Resume & Cover Letter Builder
-- BioFit Fitness App
+## About Me
+I am a data analyst with a background in kinesiology and performance training.  
+My work focuses on building data-driven insights using Python, Tableau, and real-world datasets.
 
-## Currently
-- MS in Data Science @ Eastern University
-- Building a data analytics portfolio
+I am particularly interested in:
+- Sports analytics
+- Data visualization
+- Decision modeling
+- Scientific data analysis
 
-## Goals
-- Data Analyst / Business Analyst Role
-- Applying data-driven decision making in real-world environments
+---
+
+## Technical Skills
+
+Python: Pandas, NumPy, data cleaning, analysis  
+Visualization: Tableau, Matplotlib  
+Tools: Git, Jupyter Notebook, Google Colab  
+Data: API retrieval, CSV processing, exploratory analysis
+
+---
+
+## Featured Projects
+
+### ⚾ Baseball Pitching Analysis
+Statcast pitching analysis using Python and Pybaseball to explore relationships between velocity, pitch usage, and performance metrics.
+
+Tech used:
+Python • Pandas • Pybaseball • Data Visualization
+
+---
+
+### 🪐 Exoplanet Discovery Analysis
+Exploration of NASA exoplanet discovery data to identify trends in planet size, discovery methods, and detection confidence.
+
+Tech used:
+Python • Pandas • Scientific datasets
+
+---
+
+## Currently Learning
+
+- Data pipelines
+- Advanced visualization
+- Decision modeling
